@@ -4,11 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fc331294cf342b52",
+        "id": "41bd4a7dd96fbf41",
         "type": "tabs",
         "children": [
           {
-            "id": "ab9966f2b7092265",
+            "id": "014a97bd7709ce2d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a009b8dd9f6d78c2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -17,7 +27,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c276af584e086696",
+  "active": "a009b8dd9f6d78c2",
   "lastOpenFiles": [
     "LLM-WIKI/operations-research-introduction.md",
     "2026-04-13.md",
