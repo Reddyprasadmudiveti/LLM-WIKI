@@ -1,48 +1,41 @@
 {
   "main": {
-    "id": "95aedff9e123d8b6",
+    "id": "62920dd0a3c2ec33",
     "type": "split",
     "children": [
       {
-        "id": "41bd4a7dd96fbf41",
+        "id": "f970d810a9fabed1",
         "type": "tabs",
         "children": [
           {
-            "id": "014a97bd7709ce2d",
+            "id": "45e3599949559f74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Wiki/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "a009b8dd9f6d78c2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a5349e9e15536d70",
+    "id": "d74f51f41a4a1097",
     "type": "split",
     "children": [
       {
-        "id": "51068f1d5d5f35a2",
+        "id": "ff0447fdb07a9158",
         "type": "tabs",
         "children": [
           {
-            "id": "c276af584e086696",
+            "id": "5759616577183abf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +48,7 @@
             }
           },
           {
-            "id": "a9e16c693dd9e9ae",
+            "id": "be753a106106af96",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -72,7 +65,7 @@
             }
           },
           {
-            "id": "e16b692966be68ee",
+            "id": "280569adad0b5668",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "436610bb91d50b8d",
+    "id": "863a57ba2e60b9c5",
     "type": "split",
     "children": [
       {
-        "id": "7663ab3895b8dd5f",
+        "id": "a99d31fb5a5c3936",
         "type": "tabs",
         "children": [
           {
-            "id": "cbbe10bc4c0b31fb",
+            "id": "e04db0c03641ed43",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wiki/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for index"
             }
           },
           {
-            "id": "7953aca548248a83",
+            "id": "496230914790138e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2026-04-13.md",
+                "file": "Wiki/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-04-13"
+              "title": "Outgoing links from index"
             }
           },
           {
-            "id": "77f1f99606f6aa5a",
+            "id": "73d584da4902f650",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -143,7 +137,7 @@
             }
           },
           {
-            "id": "11df2e4b3769e111",
+            "id": "9b14966d9f7a26e0",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -157,22 +151,22 @@
             }
           },
           {
-            "id": "f6b8b1f7fdba55eb",
+            "id": "0425f046acf9c7bb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-04-13.md",
+                "file": "Wiki/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-13"
+              "title": "Outline of index"
             }
           },
           {
-            "id": "e2d8b2480a6e147a",
+            "id": "d12f1ad9121e8d84",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -200,28 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a009b8dd9f6d78c2",
+  "active": "45e3599949559f74",
   "lastOpenFiles": [
-    "LLM-WIKI/operations-research-introduction.md",
-    "2026-04-13.md",
-    "LLM-WIKI/prasad.txt",
-    "LLM-WIKI/Wiki/simplex-algorithm.md",
-    "LLM-WIKI/Wiki/operations-research-introduction.md",
-    "LLM-WIKI/Wiki/mba-403-operations-research-syllabus.md",
-    "LLM-WIKI/Wiki/lpp-graphical-method.md",
-    "LLM-WIKI/Wiki/lpp-duality.md",
-    "LLM-WIKI/Wiki/log.md",
-    "LLM-WIKI/Wiki/linear-programming-problem.md",
-    "LLM-WIKI/Wiki/index.md",
-    "LLM-WIKI/Wiki/artificial-variables-simplex.md",
-    "LLM-WIKI/Wiki",
-    "LLM-WIKI/Raw/operations research - Sunitha.jpg",
-    "LLM-WIKI/Raw",
-    "LLM-WIKI/CLAUDE.md",
-    "LLM-WIKI",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Welcome.md"
+    "CLAUDE.md",
+    "operations-research-introduction.md"
   ]
 }
