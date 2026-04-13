@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-04-13.md",
+                "file": "LLM-WIKI/operations-research-introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-13"
+              "title": "operations-research-introduction"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-04-13.md",
+                "file": "LLM-WIKI/operations-research-introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-04-13"
+              "title": "Backlinks for operations-research-introduction"
             }
           },
           {
@@ -164,8 +164,19 @@
               "icon": "lucide-list",
               "title": "Outline of 2026-04-13"
             }
+          },
+          {
+            "id": "e2d8b2480a6e147a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -179,13 +190,30 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbbe10bc4c0b31fb",
+  "active": "c276af584e086696",
   "lastOpenFiles": [
-    "Untitled 2.canvas",
     "2026-04-13.md",
+    "LLM-WIKI/prasad.txt",
+    "LLM-WIKI/operations-research-introduction.md",
+    "LLM-WIKI/Wiki/simplex-algorithm.md",
+    "LLM-WIKI/Wiki/operations-research-introduction.md",
+    "LLM-WIKI/Wiki/mba-403-operations-research-syllabus.md",
+    "LLM-WIKI/Wiki/lpp-graphical-method.md",
+    "LLM-WIKI/Wiki/lpp-duality.md",
+    "LLM-WIKI/Wiki/log.md",
+    "LLM-WIKI/Wiki/linear-programming-problem.md",
+    "LLM-WIKI/Wiki/index.md",
+    "LLM-WIKI/Wiki/artificial-variables-simplex.md",
+    "LLM-WIKI/Wiki",
+    "LLM-WIKI/Raw/operations research - Sunitha.jpg",
+    "LLM-WIKI/Raw",
+    "LLM-WIKI/CLAUDE.md",
+    "LLM-WIKI",
+    "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Welcome.md"
